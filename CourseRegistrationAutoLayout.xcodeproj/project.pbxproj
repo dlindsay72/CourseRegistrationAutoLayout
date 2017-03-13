@@ -12,6 +12,7 @@
 		7BB445D71E76EB4000C50226 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BB445D51E76EB4000C50226 /* Main.storyboard */; };
 		7BB445D91E76EB4000C50226 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BB445D81E76EB4000C50226 /* Assets.xcassets */; };
 		7BB445DC1E76EB4000C50226 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BB445DA1E76EB4000C50226 /* LaunchScreen.storyboard */; };
+		7BB445E61E76EE4300C50226 /* sdev.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7BB445E51E76EE4300C50226 /* sdev.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7BB445D81E76EB4000C50226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BB445DB1E76EB4000C50226 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BB445DD1E76EB4000C50226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BB445E51E76EE4300C50226 /* sdev.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sdev.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		7BB445D01E76EB4000C50226 /* CourseRegistrationAutoLayout */ = {
 			isa = PBXGroup;
 			children = (
+				7BB445E51E76EE4300C50226 /* sdev.jpg */,
 				7BB445D11E76EB4000C50226 /* AppDelegate.swift */,
 				7BB445D31E76EB4000C50226 /* ViewController.swift */,
 				7BB445D51E76EB4000C50226 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BB445DC1E76EB4000C50226 /* LaunchScreen.storyboard in Resources */,
+				7BB445E61E76EE4300C50226 /* sdev.jpg in Resources */,
 				7BB445D91E76EB4000C50226 /* Assets.xcassets in Resources */,
 				7BB445D71E76EB4000C50226 /* Main.storyboard in Resources */,
 			);
